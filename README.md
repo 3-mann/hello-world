@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi, I'm new to GIT and I'm just learning, how ist works.
